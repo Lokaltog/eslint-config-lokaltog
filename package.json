@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-lokaltog",
+  "version": "1.0.1",
+  "description": "Lokaltog's ESLint config.",
+  "main": "index.js",
+  "repository": "Lokaltog/eslint-config-lokaltog.git",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Kim Silkebækken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lokaltog/eslint-config-lokaltog/issues"
+  },
+  "homepage": "https://github.com/Lokaltog/eslint-config-lokaltog#readme",
+  "peerDependencies": {
+    "eslint": ">=4.11.0"
+  }
+}
